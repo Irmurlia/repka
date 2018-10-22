@@ -66,7 +66,7 @@ regulatory system that will help San Francisco lead the way in robotics
 innovation and creating well-paid manufacturing jobs,” said CEO and co-founder
 Matt Delaney.
 
-![](https://cdn-images-1.medium.com/max/2000/0*uvNScFek-SSsHpZn.jpg)
+![](https://cdn-images-1.medium.com/max/800/0*uvNScFek-SSsHpZn.jpg)
 
 Dispatch, a South San Francisco robot startup, did not respond to requests for
 comment.
