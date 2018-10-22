@@ -95,7 +95,7 @@ rather than reduce the labor force.”
 
 *****
 
-*Originally published at[www.sfchronicle.com](http://www.sfchronicle.com/news/article/San-Francisco-to-robots-Don-t-crowd-our-12411062.php)*
+*Originally published at [www.sfchronicle.com](http://www.sfchronicle.com/news/article/San-Francisco-to-robots-Don-t-crowd-our-12411062.php)*
 
 * [San Francisco](https://medium.com/tag/san-francisco?source=post)
 * [Technology](https://medium.com/tag/technology?source=post)
