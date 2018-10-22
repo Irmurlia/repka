@@ -66,7 +66,7 @@ regulatory system that will help San Francisco lead the way in robotics
 innovation and creating well-paid manufacturing jobs,” said CEO and co-founder
 Matt Delaney.
 
-![](https://cdn-images-1.medium.com/freeze/max/30/0*uvNScFek-SSsHpZn.jpg?q=20)
+![](https://cdn-images-1.medium.com/max/2000/0*uvNScFek-SSsHpZn.jpg)
 
 Dispatch, a South San Francisco robot startup, did not respond to requests for
 comment.
@@ -95,8 +95,7 @@ rather than reduce the labor force.”
 
 *****
 
-*Originally published at
-*[www.sfchronicle.com](http://www.sfchronicle.com/news/article/San-Francisco-to-robots-Don-t-crowd-our-12411062.php)
+*Originally published at[www.sfchronicle.com](http://www.sfchronicle.com/news/article/San-Francisco-to-robots-Don-t-crowd-our-12411062.php)*
 
 * [San Francisco](https://medium.com/tag/san-francisco?source=post)
 * [Technology](https://medium.com/tag/technology?source=post)
